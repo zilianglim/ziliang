@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<ul>
+<li><a href="Main.html" target="_self">Home</a></li>
+<li><a href="Gallery.html" target="_blank">Gallery</a></li>
+<li><a href="Favourites.html" target="_blank">Favourites</a></li>
+<li><a href="Contact.html" target="_blank">Contact</a></li>
+
+</ul>
+<h1>Gallery</h1>
+<p>This is our Web Dev Team</p>
+<img src="pp (7).jpg" alt="wdt" width="400" height="400">
+<img src="pp.jpg" alt="Bruce Voon" width="400" height="400">
+<img src="pp (1).jpg" alt="Christine" width="400" height="400"><br>
+<img src="pp (2).jpg" alt="Desmond" width="400" height="400">
+<img src="pp (3).jpg" alt="Wincent" width="400" height="400">
+<img src="pp (4).jpg" alt="LiHan" width="400" height="400"><br>
+<img src="pp (5).jpg" alt="Chi Jun" width="400" height="400">
+<img src="pp (6).jpg" alt="Xun Wei" width="400" height="400">
+<img src="pp(7).jpg" alt="Jie Feng" width="400" height="400"><br>
+<hr/>
+<p>By ZLL</P>
+</html>
