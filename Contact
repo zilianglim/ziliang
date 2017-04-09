@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<ul>
+        <li><a href="Main.html" target="_blank">Home</a></li>
+        <li><a href="Gallery.html" target="_blank">Gallery</a></li>
+        <li><a href="Favourites.html" target="_blank">Favourites</a></li>
+        <li><a href="Contact.html" target="_self">Contact</a></li>
+    </ul>
+    <h1>Contact Me</h1>
+    <p>Not interested? Give me your number anyways.</p>
+    <h2>Hit me up</h2>
+    <form>
+     Name:<br><input type="text" placeholder="your name here"><br>
+    Email:<br><input type="text" placeholder="your email here"><br>
+    Message:<br>
+    <textarea name="comment" form="usrform" rows="10" cols="50">your message here</textarea>
+    <br>
+    <button type="submit" value="submit">Submit</button>
+    <button type="reset" value="Reset">Clear</button>
+</form>
+<h2>Find me on social media!</h2>
+<ul>
+<li><a href="https://www.facebook.com/ziliang.lim.5" target="_blank"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40" height="40"></a></li>
+<li><a href="https://www.instagram.com/ziliangtheawesome/" target="_blank"><img src="https://www.google.com/search?q=instagram+logo+png&espv=2&tbm=isch&imgil=wt9CDBoXZhr93M%253A%253Bt7YJQEFAFTLrhM%253Bhttp%25253A%25252F%25252Fdiylogodesigns.com%25252Fblog%25252Finstagram-logo%25252F&source=iu&pf=m&fir=wt9CDBoXZhr93M%253A%252Ct7YJQEFAFTLrhM%252C_&usg=__wBnYCau00vHKNuLH3u5sqbHh4mc%3D&biw=639&bih=596&ved=0ahUKEwjBzemm5ZfTAhXGRo8KHYfVAxYQyjcIJg&ei=4mDqWMHUJ8aNvQSHq4-wAQ#imgrc=wt9CDBoXZhr93M:" width="40" height="40"></a></li>
+</ul>
+<hr/>
+<p>By ZLL</p>
+</html>
