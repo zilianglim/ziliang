@@ -1,0 +1,27 @@
+!DOCTYPE html
+<html>
+<ul>
+        <li><a href="Main.html" target="_blank">Home</a></li>
+        <li><a href="Gallery.html" target="_blank">Gallery</a></li>
+        <li><a href="Favourites.html" target="_self">Favourites</a></li>
+        <li><a href="Contact.html" target="_blank">Contact</a></li>        
+    </ul>
+    <h1>Favourites</h1>
+    <p>My favourite websites</p>
+    <ul>
+    <li><a href="https://9gag.com/" target="_blank">9GAG</a></li>
+    </ul>
+    <h2>Social Media</h2>
+    <ul>
+    <li><a href="https://www.facebook.com/" target="_blank">Facebook</a></li>
+    <li><a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
+    </ul>
+    <h2>Entertainment</h2>
+    <ul>
+    <li><a href="https://www.youtube.com/" target="_blank">YouTube</a></li>
+    <li><a href="https://fmovies.se/" target="_blank">fMovies</a></li>
+    </ul>
+    <hr/>
+    <p>By ZLL</p>
+
+</html>
